@@ -1,0 +1,7 @@
+{
+    "env_name": "GurrenColab/Server/GurrenX.x86_64",
+    "hyper_parameters": "GurrenColab/config.yaml",
+    "unityplayer_path": "GurrenColab/Server/UnityPlayer.so",
+    "permission_path": "GurrenColab/Server/",
+    "run_id": "Gurren"
+}
